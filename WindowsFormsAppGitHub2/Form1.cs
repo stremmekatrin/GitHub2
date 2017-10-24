@@ -17,5 +17,10 @@ namespace WindowsFormsAppGitHub2
             InitializeComponent();
             //Kommentar
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("KAPPA!");
+        }
     }
 }
