@@ -15,7 +15,7 @@ namespace WindowsFormsAppGitHub2
         public Form1()
         {
             InitializeComponent();
-            //DU IDIOT
+            //Kommentar
         }
     }
 }
